@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on **An OGFN project called "Vaultix"**
 
-- 🌱 I'm currently learning **XAML and C++**
+- 🌱 I'm currently learning **XAML and more C++**
 
 - 👯 I'm looking to collaborate on **Other OGFN projects or open source projects.**
 
