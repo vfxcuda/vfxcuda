@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently learning **XAML and more C++**
 
-- 👯 I'm looking to collaborate on **Other OGFN projects or open source projects.**
+- 👯 I'm looking to collaborate on **Open source projects.**
 
 - 💬 Ask me about **Mainly development things but you can ask me anything.**
 
