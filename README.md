@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/CudaFnlmao" target="blank"><img src="https://img.shields.io/twitter/follow/CudaFnlmao?logo=twitter&style=for-the-badge" alt="CudaFnlmao" /></a> </p>
 
-- 🔭 I'm currently working on **An OGFN project called "Vaultix"**
+- 🔭 I'm currently working on **getting better at "Python"**
 
 - 🌱 I'm currently learning **XAML and more C++**
 
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **My computer is 2 years old**
 
-- 👨‍💻 All of my projects are available at **[https://guns.lol/vfxcuda](https://guns.lol/vfxcuda)**
+- 👨‍💻 Some other information about me is located here: **[https://guns.lol/vfxcuda](https://guns.lol/vfxcuda)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
