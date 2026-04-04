@@ -6,7 +6,7 @@
 
 ### Hello! My name is David aka vfxcuda, im 14 and I code! I definitely play games, but coding & being a dev is one of my favorite hobbies and is the best in my opinion!
 
-<p align="left"> <a href="https://twitter.com/CudaFnlmao" target="blank"><img src="https://img.shields.io/twitter/follow/CudaFnlmao?logo=twitter&style=for-the-badge" alt="CudaFnlmao" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CudaFnlmao" target="blank"><img src="https://img.shields.io/twitter/follow/CudaFnlmao?logo=twitter&style=for-the-badge" alt="vfxcuda" /></a> </p>
 
 - 🔭 I'm currently working on **getting better at "Python"**
 
